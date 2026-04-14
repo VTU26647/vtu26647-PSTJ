@@ -1,5 +1,3 @@
-
-
 public class Solution {
     public boolean halvesAreAlike(String s) {
         Set<Character> vowels = new HashSet<>();
